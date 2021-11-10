@@ -1,0 +1,96 @@
+
+body{
+    background-image:url("../images/chat_background.jpg");
+    font-family: roboto;
+}
+.chat_section{
+    width:88%;
+    margin-top:50px;
+    height:555px;
+    background-color:#ffffff;
+}
+.users{
+    font-size:30px;
+    height:550px;
+    overflow-y: scroll;
+    background-image:url("../images/users.jpg");
+}
+.head_users{
+    font-size:19px;
+    color:black;
+    font-weight:bold;
+    margin-left:5px;
+    margin-top:20px;
+}
+a{
+    font-size:12px;
+}
+.button{
+    margin-left:65px;
+    text-decoration: underline;
+    color:cadetblue;
+}
+.image{
+    margin-left:4px;
+    margin-top:px;
+    height:35px;
+}
+.friends{
+    font-size:28px;
+    margin-left:30px;
+    margin-top:10px;
+}
+.chats{
+  background-image:url("../images/chatting.jpg");
+    height:550px;
+}
+.chat_area{
+    font-size:20px;
+    height:520px;
+    overflow-y: scroll;
+}
+#content{
+    height:30px;
+    font-weight:bolder;
+}
+#post{
+    font-size:18px;
+    color:black;
+    text-decoration: underline;
+}
+.current_user{
+    width:100% ;
+    background-color:grey;
+    height:60px;
+    color:navy;
+}
+
+.user_img{
+    height:30px;
+    margin-left:10px;
+}
+.chat_box{
+    margin-left:12px;
+    width:60%;
+    min-height:40%;
+    background-color: white;
+    border-radius:10px;
+}
+.chat_box2{
+    width:55%;
+    min-height:50%;
+    margin-left:220px;
+    border-radius:10px;
+}
+.time2{
+     color:white;
+     font-size:15px;
+	 position:absolute;
+	 right:20px;
+}
+.time_set{
+     position: absolute;
+     right: 20px;
+     font-size:15px;
+     color:grey;
+}

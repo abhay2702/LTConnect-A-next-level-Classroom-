@@ -1,0 +1,49 @@
+
+body{
+    background-color:#87CEEB;
+}
+.chat_section{
+    margin-left:120px;
+    width:80%;
+    margin-top:50px;
+    height:558px;
+    background-color:#ffffff;
+}
+nav{
+    background-color:#f2f2f2;
+    text-align: center;
+    font-size:24px;
+    border:1px solid lightgrey;
+}
+.links{
+    font-size:17px;
+    text-decoration: underline;
+    color:white;
+}
+.users{
+    font-size:20px;
+    height:488px;
+    overflow: scroll;
+}
+.chat_area{
+    font-size:20px;
+    height:450px;
+    background-image:url("../images/chat_app.jpg");
+    overflow: scroll;
+}
+#content{
+    background-image:url("../images/chat_app.jpg");
+    height:38px;
+    font-weight:bolder;
+    width:69%;
+}
+#post{
+    font-size:18px;
+    color:black;
+    text-decoration: underline;
+    cursor:pointer;
+}
+#post:hover{
+    text-decoration: none;
+    color:cadetblue;
+}
